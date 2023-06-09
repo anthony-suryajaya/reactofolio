@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import "./styles/navBar.css";
+import DarkMode from "../../data/DarkMode.tsx";
 
 const NavBar = (props) => {
 	const { active } = props;
@@ -12,6 +13,7 @@ const NavBar = (props) => {
 				<nav className="navbar">
 					<div className="nav-background">
 						<ul className="nav-list">
+							<DarkMode />
 							<li
 								className={
 									active === "home"
@@ -38,15 +40,6 @@ const NavBar = (props) => {
 								}
 							>
 								<Link to="/projects">Projects</Link>
-							</li>
-							<li
-								className={
-									active === "articles"
-										? "nav-item active"
-										: "nav-item"
-								}
-							>
-								<Link to="/articles">Articles</Link>
 							</li>
 							<li
 								className={

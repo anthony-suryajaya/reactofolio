@@ -36,7 +36,7 @@ const INFO = {
 		{
 			title: "Thesis Project",
 			description:
-				"This is my Final Project for my final Year in University, where I combine Computer Vision for an Automatic Collision Avoidance System using RaspberryPi as the base Microprocessor",
+				"This is my Final Project for my final Year in University, where I combine Computer Vision for an Automatic Anti-Collision Avoidance System using RaspberryPi as the base Microprocessor",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com/anthony-suryajaya/Tugas_Akhir",
@@ -45,7 +45,7 @@ const INFO = {
 		{
 			title: "Machine Learning NLP Model Capstone Project",
 			description:
-				"This is the Machine Learning Model I've made together with my teammate to deploy on Google's Cloud Platform for an Android Application we made together",
+				"This is the Machine Learning Model I've made together with my teammates to deploy on Google's Cloud Platform for an Android Application we made together",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg",
 			linkText: "View Project",
 			link: "https://drive.google.com/file/d/1vf8T6aF2LwmZr3fGJH_adpNrEaRaMa7x/view?usp=sharing",
