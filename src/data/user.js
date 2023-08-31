@@ -72,6 +72,13 @@ const INFO = {
 			<li>Adaptability</li>
 	  	</ul>
 	  </p>
+	  <h3>Languages:</h3>
+	  <p>
+		<ul>
+			<li>Bahasa Indonesia -- Native</li> 
+			<li>English -- Fluent</li>
+	  	</ul>
+	  </p>
     </div>
   ),
   resume: 
