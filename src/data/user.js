@@ -76,7 +76,7 @@ const INFO = {
   ),
   resume: 
   <div>
-	<h2><a href="https://1drv.ms/w/s!Av162jx4X-QZxFuUCmZg25wg-SLT?e=TvDO95">Full Resume</a></h2>
+	<h2><a href="https://docs.google.com/document/d/1U0RPttdjRcPynr-lmMYPP3kKmpQRRO_RzGKg0ASeBWs/edit?usp=sharing">Full Resume</a></h2>
   </div>
 },
 
