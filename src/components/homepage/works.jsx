@@ -10,7 +10,7 @@ const Works = () => {
 		<div className="works">
 			<Card
 				icon={faBriefcase}
-				title="Work"
+				title="Work Experience"
 				body={
 					<div className="works-body">
 						<div className="work">
@@ -19,7 +19,11 @@ const Works = () => {
 								alt="PMI"
 								className="work-image"
 							/>
-							<div className="work-title">Phillip Morris International</div>
+							<div className="work-title">
+								<a href="https://www.pmi.com/markets/indonesia/id">
+									Phillip Morris International
+								</a>
+							</div>
 							<div className="work-subtitle">
 								Supply Chain Analyst
 							</div>
@@ -33,7 +37,8 @@ const Works = () => {
 								className="work-image"
 							/>
 							<div className="work-title">
-								Bangkit Academy by Google, Gojek, Tokopedia and Traveloka
+								<a href="https://grow.google/intl/id_id/bangkit/">Bangkit Academy by Google, Gojek, Tokopedia and Traveloka
+								</a>
 							</div>
 							<div className="work-subtitle">
 								Machine Learning Student
@@ -50,7 +55,9 @@ const Works = () => {
 								className="work-image"
 							/>
 							<div className="work-title">
-								PT. Dumas Tanjung Perak Shipyards
+								<a href="https://www.dumas.co.id/contact.shtml">
+									PT. Dumas Tanjung Perak Shipyards
+								</a>
 							</div>
 							<div className="work-subtitle">
 								Engineering Intern
