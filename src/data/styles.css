@@ -2,7 +2,7 @@
 	/* ------- colors ------- */
   [data-theme='light']{
     --main-bg-color: white;
-    --content-after-color: #CDCDCD;
+    --content-after-color: #fdfcf5;
     --content-after-border: #f4f4f5;
     --primary-color: #27272a;
     --secondary-color: #65656d;
